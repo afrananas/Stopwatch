@@ -12,9 +12,9 @@ Assignment Name: Assignment 2
 
 projects:
 
-1. Fortune Generator:
+1. Fortune Generator:  https://github.com/afrananas/Fortune-Generator.git
  
 2. stopwatch:  https://github.com/afrananas/Stopwatch.git
 
-3. To-Do List:
+3. To-Do List:  https://github.com/afrananas/To-Do-List.git
 
