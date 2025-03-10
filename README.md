@@ -14,7 +14,7 @@ projects:
 
 1. Fortune Generator:
  
-2. stopwatch:
+2. stopwatch:  https://github.com/afrananas/Stopwatch.git
 
 3. To-Do List:
 
